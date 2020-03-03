@@ -4,7 +4,7 @@ MAINTAINER ashok
 
 RUN yum -y install httpd
 
-RUN echo "Welcome to our web application" > /var/www/html/index.html
+RUN echo "MANY MANY MORE HAPPY RETURNS OF THE DAY ASHOK BRO FROM ASHOK DEVOPS ENGINEER" > /var/www/html/index.html
 
 EXPOSE 80
 
